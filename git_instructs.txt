@@ -15,3 +15,10 @@ git push -u origin master
 if need to create a new repository go to
 https://help.github.com/articles/creating-a-new-repository/
 
+Need to look at branching
+git branch xxx
+then would do git push -u origin xxx (branches name)
+
+-- to merge a branch
+git merge xxx master
+git push origin master
